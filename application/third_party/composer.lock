@@ -1,0 +1,56 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "f6b1ef7fad6d2d72f6af5b546f56c6d4",
+    "packages": [
+        {
+            "name": "sellix/php-sdk",
+            "version": "v1.0.17",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Sellix/php-sdk.git",
+                "reference": "294f0f9b63e12bd6c9ef34735fe005b13784910b"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Sellix/php-sdk/zipball/294f0f9b63e12bd6c9ef34735fe005b13784910b",
+                "reference": "294f0f9b63e12bd6c9ef34735fe005b13784910b",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Sellix\\PhpSdk\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Daniele Servadei",
+                    "email": "daniele@sellix.io"
+                }
+            ],
+            "description": "Sellix PHP SDK",
+            "support": {
+                "issues": "https://github.com/Sellix/php-sdk/issues",
+                "source": "https://github.com/Sellix/php-sdk/tree/v1.0.17"
+            },
+            "time": "2023-05-25T17:59:09+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.6.0"
+}

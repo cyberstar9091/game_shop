@@ -1,0 +1,5 @@
+{
+    "require": {
+        "sellix/php-sdk": "^1.0"
+    }
+}

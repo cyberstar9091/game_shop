@@ -1,0 +1,1 @@
+function appHeight(){document.documentElement.style.setProperty("--app-height",window.innerHeight+"px"),document.documentElement.style.setProperty("--app-width",window.innerWidth+"px")}function headerMenuToggle(){const e=document.getElementById("headerMenu");e.classList.toggle("active")}window.addEventListener("resize",appHeight),appHeight();
